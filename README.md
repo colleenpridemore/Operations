@@ -12,7 +12,7 @@ The R&D Guild is a specialized group within the SingularityNET Ambassadors Progr
 In this repository, you'll discover:
 
 **Projects:** Explore ongoing and upcoming R&D projects within the Guild.
-**Documentation**: Access resources, guidelines, and technical documentation related to our initiatives.
+**Documentation**: Access resources, guidelines, and technical documentation related to our initiatives. 
 **Contributions:** Learn how to contribute to R&D efforts and collaborate with fellow ambassadors.
 **Events:** Stay updated on upcoming workshops, webinars, and hackathons organized by the Guild.
 
@@ -31,13 +31,16 @@ Explore Projects: Find a project that aligns with your interests and skills.
 Connect: Engage with other Guild members and start collaborating.
 Contribute: Make meaningful contributions by submitting pull requests, sharing insights, or providing feedback.
 
-Connect With Us
+**Connect With Us**
 Stay connected with the SingularityNET Ambassadors R&D Guild:
 
-Discord: Join our Discord server here to connect with fellow members.
-Email: Reach out to us at guild@example.com for inquiries or partnership opportunities.
+Discord: Join our Discord server at https://discord.gg/snet to connect with fellow members.
+
+Find out more about the SingularityNET Ambassador Program at https://snet-ambassadors.gitbook.io/home
+
 Let's work together to drive innovation and shape the future of decentralized AI with SingularityNET!
 
-Together, we can achieve extraordinary things.
-Lets Build
+Together, we can achieve extraordinary things!✨
+
+Lets Build 🚀
 
